@@ -21,6 +21,7 @@ group :test do
   gem 'autotest-rails-pure', '4.1.2'
   gem 'rspec', '2.5.0'
   gem 'webrat', '0.7.1'
+  gem 'factory_girl_rails', '1.0'
 end
 
 # Use unicorn as the web server
